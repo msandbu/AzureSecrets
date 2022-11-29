@@ -3,7 +3,7 @@ A Repository for different Azure Secrets and Endpoints
 
 ## Virtual Network
 
-https://<YourVirtualNetworkGatewayIP>:8081/healthprobe (Does not require login) Gateway 
+https://YourVirtualNetworkGatewayIP:8081/healthprobe (Does not require login) Gateway 
 
 ## App Service
 
@@ -13,7 +13,7 @@ https://nameoffunction.azurewebsites.net/api/nameoffunction?code= Azure Function
 
 ## Azure Resource Manager
 
-Resource Explorer https://resources.azure.com/ (Requires login)
+https://resources.azure.com/ (Requires login) Resource Explorer 
 
 ## Databricks
 
