@@ -7,8 +7,8 @@ https://YourVirtualNetworkGatewayIP:8081/healthprobe (Does not require login) Ga
 
 ## App Service
 
-https://appservicename.scm.azurewebsites.net (SCM for App Service)
-ftp://waws-prod-am2-xxx.ftp.azurewebsites.windows.net/site/wwwroot (If enabled for App Service FTP for Logs)
+https://appservicename.scm.azurewebsites.net (SCM for App Service)  
+ftp://waws-prod-am2-xxx.ftp.azurewebsites.windows.net/site/wwwroot (If enabled for App Service FTP for Logs)  
 https://nameoffunction.azurewebsites.net/api/nameoffunction?code= Azure Function 
 
 ## Azure Resource Manager
