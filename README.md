@@ -5,6 +5,9 @@ A Repository for different Azure Secrets and Endpoints
 
 https://YourVirtualNetworkGatewayIP:8081/healthprobe (Does not require login) Gateway 
 
+## Bastion
+bst-instancename.bastion.azure.com
+
 ## App Service
 
 https://appservicename.scm.azurewebsites.net (SCM for App Service)  
@@ -19,8 +22,11 @@ https://resources.azure.com/ (Requires login) Resource Explorer
 
 https://adb-instancenumber.9.azuredatabricks.net/ (Requires login)
 
+## Data Factory
+https://adf.azure.com/en/home?factory=
+
 ## AVD
-https://rdbroker-g-us-r0.wvd.microsoft.com/api/health (AVD Broker for US)
+https://rdbroker-g-us-r0.wvd.microsoft.com/api/health (AVD Broker for US)  
 https://afdfp-rdgateway-r1.wvd.microsoft.com/api/health (AVD Gateway for US)
 
 ## Managed Grafana
@@ -37,7 +43,7 @@ https://storageaccountname.dfs.core.windows.net/ (Data Lake)
 https://md-ransomwareint.z49.blob.storage.azure.net (Azure Disk Export)  
 
 ## AKS
-https://instancename-random.hcp.region.azmk8s.io (Admin API)
+https://instancename-random.hcp.region.azmk8s.io (Admin API if using public endpoint) 
 
 ## Log Analytics
 https://workspaceid.ods.opinsights.azure.com/<Resource>?api-version=2016-04-01 (Data Collection API)
