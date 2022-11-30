@@ -22,6 +22,9 @@ https://resources.azure.com/ (Requires login) Resource Explorer
 
 https://adb-instancenumber.9.azuredatabricks.net/ (Requires login)
 
+## Key Vault
+https://instancename.vault.azure.net/
+
 ## Data Factory
 https://adf.azure.com/en/home?factory=
 
